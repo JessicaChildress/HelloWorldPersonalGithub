@@ -1,4 +1,4 @@
 print("hello world!")
 
-value = input("How much are you worth?")
-print(int(value))
+value = input("How old are you?")
+print("You are", int(value), "years old")
